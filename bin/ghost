@@ -3,7 +3,7 @@
 #            ---------------------------------------------------
 #                              Ghost Framework                                                  
 #            ---------------------------------------------------
-#                Copyright (C) <2019-2020>  <Entynetproject>
+#                Copyright (C) <2021>  <QatrixQuantum>
 #
 #        This program is free software: you can redistribute it and/or modify
 #        it under the terms of the GNU General Public License as published by
@@ -53,7 +53,7 @@ if [[ "$ASESR" != "" ]]
 then 
 cd ~
 {
-git clone https://github.com/entynetproject/ghost.git
+git clone https://github.com/QatrixQuantum/ghost.git
 cd $OLDPWD
 cd ~/ghost
 mkdir etc/.disabled
